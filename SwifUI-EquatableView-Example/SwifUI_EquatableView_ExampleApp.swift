@@ -11,7 +11,7 @@ import SwiftUI
 struct SwifUI_EquatableView_ExampleApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+          HomeView()
         }
     }
 }
